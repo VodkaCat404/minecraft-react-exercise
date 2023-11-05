@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <h1>Mobs de Minecraft</h1>
-      <MobsList></MobsList>
+      <MobsList/>
     </>
   )
 }

@@ -7,6 +7,7 @@ function MobCard({ mob }) {
       <p>{mob.description}</p>
       <span>{mob.health}</span>
       <p>{mob.category}</p>
+      <img src={mob.image} alt={mob.name} />
     </article>
   );
 }

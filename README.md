@@ -1,8 +1,13 @@
-# React + Vite
+<!--
+# Proyect made with Vite-React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+! Requirements
+* node.js
+* once the repository is cloned use
+* npm install for node_modules dependencies
+* npm run dev to view the project
 
-Currently, two official plugins are available:
+? author: Cesar Josue Soto Langarica VodkaCat404
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* install "better comments" from Aaron Bond and change in the .json "todo" to "#" if you want view the comments more pretty
+-->
