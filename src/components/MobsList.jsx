@@ -5,7 +5,7 @@ import MobCard from "./MobCard";
 function MobsList() {
   const { mobs } = useContext(MultipleContext);
   return (
-    <div>
+    <div className="flex flex-col items-center">
       {mobs.map((mob) => (
         <MobCard key={mob.id} mob={mob}></MobCard>
       ))}
